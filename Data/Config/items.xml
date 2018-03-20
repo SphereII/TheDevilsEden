@@ -2557,7 +2557,7 @@ Mesh files no longer used:
 		<property name="FlyTime" value="0"/>
 		<property name="Gravity" value="-4.7"/>
 		<property name="LifeTime" value="12"/>
-		<property name="DamageBonus.head" value="5"/>
+		<property name="DamageBonus.head" value="6"/>
 		<property name="DamageBonus.body" value="0.1"/>
 		<property name="DamageBonus.glass" value="1"/>
 		<property name="DamageBonus.wood" value="0.1"/>

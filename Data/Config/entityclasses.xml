@@ -181,7 +181,7 @@
 	<property name="AttackTimeoutNight" value="1.15"/>
 	
 	<property name="CanClimbLadders" value="true"/>
-	<property name="CanClimbVertical" value="true"/>
+	<property name="CanClimbVertical" value="false"/>
 	<property name="IsEnemyEntity" value="true"/>
 
 	<!-- Stealth settings -->
@@ -266,7 +266,6 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="2"/>
-	<property name="CanClimbVertical" value="false"/>
 	<property name="CorpseBlock" value="ZedGoreBoe"/>
 	<property name="CorpseBlockChance" value="1"/>
 	<property name="ExperienceGain" value="1039"/>
@@ -286,8 +285,6 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="6"/>
-	<property name="CanClimbVertical" value="false"/>
-	
 	<property name="HandItem" value="handZombieFootballPlayer"/>
 	<property name="WanderSpeed" value="0.05"/>
 	<property name="ApproachSpeed" value="0.45"/>
@@ -318,7 +315,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="1"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="HandItem" value="handZombieStrong"/>
 	
 	<property name="CorpseBlock" value="ZedGoreGenericFatties"/>
@@ -342,7 +339,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="5"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="RootMotion" value="true"/>
 	<property name="HasDeathAnim" value="true"/>
 	<property name="TintMaterial2" value="79,40,26"/>
@@ -362,7 +359,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="1"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="HandItem" value="handZombieStrong"/>
 	
 	<property name="ExperienceGain" value="1556"/>
@@ -490,7 +487,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="5"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="RootMotion" value="true"/>
 	<property name="HasDeathAnim" value="true"/>
 	<property name="TintMaterial3" value="23,17,13"/>
@@ -502,7 +499,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="6"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="RootMotion" value="true"/>
 	<property name="TintMaterial2" value="36,38,45"/>
 	<drop event="Harvest" name="rottingFlesh" tool_category="Butcher" count="0"/>
@@ -513,7 +510,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="7"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="RootMotion" value="true"/>
 	<property name="TintMaterial1" value="36,38,45"/>
 	<property name="CorpseBlock" value="ZedGoreBusinessMan"/>
@@ -528,7 +525,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="2"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	
 	<property name="ExperienceGain" value="1556"/>
 	<property name="RootMotion" value="true"/>
@@ -588,7 +585,7 @@
 <entity_class name="zombieBurntSLPR" extends="zombieTemplateSleepers">
 	<property name="Mesh" value="Zombies/ZombieStandardBurntRagdoll"/>
 	<property name="WalkType" value="7"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="SoundRandom" value="Enemies/Burnt_Zombie/zombieburntroam"/>
 	<property name="SoundAlert" value="Enemies/Burnt_Zombie/zombieburntalert"/>
 	<property name="SoundAttack" value="Enemies/Burnt_Zombie/zombieburntattack"/>
@@ -647,7 +644,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="7"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="ApproachSpeed" value="0.15"/>
 	<property name="NightApproachSpeed" value="0.45"/>
 	<property name="HandItem" value="handZombieWorkerFeral"/>
@@ -675,7 +672,7 @@
 	<property name="Class" value="EntityZombieCop"/>
 	<property name="HandItem" value="handZombieCop"/>
 	<property name="WalkType" value="1"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="RightHandJointName" value="Jaw"/>
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
@@ -800,7 +797,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="6"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="ApproachSpeed" value="0.15"/>
 	<property name="NightApproachSpeed" value="0.45"/>
 	
@@ -830,7 +827,7 @@
 	<property name="AvatarController" value="AvatarZombie01Controller"/>
 	<property name="ModelType" value="Standard"/>
 	<property name="WalkType" value="2"/>
-	<property name="CanClimbVertical" value="false"/>
+	<property name="CanClimbVertical" value="true"/>
 	
 	<property name="ExperienceGain" value="2509"/>
 	<property name="RootMotion" value="true"/>
@@ -887,7 +884,7 @@
 <entity_class name="zombieOldTimerSLPR" extends="zombieTemplateSleepers">
 	<property name="Mesh" value="Zombies/zombieStandardOldTimerRagdoll"/>
 	<property name="WalkType" value="3"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="CorpseBlock" value="ZedGoreOldTimer"/>
 	<property name="CorpseBlockChance" value="1"/>
 	<drop event="Harvest" name="rottingFlesh" tool_category="Butcher" count="0"/>
@@ -902,7 +899,7 @@
 	<property name="ExperienceGain" value="2091"/>
 	<!--<property name="LootListOnDeath" value="83"/>-->
 	<property name="WalkType" value="7"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="ApproachSpeed" value="0.15"/>
 	<property name="CorpseBlock" value="ZedGoreBiker"/>
 	<property name="CorpseBlockChance" value="1"/>
@@ -915,7 +912,7 @@
 	<property name="ExperienceGain" value="1039"/>
 	<!--<property name="LootListOnDeath" value="85"/>-->
 	<property name="WalkType" value="6"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="TintMaterial1" value="84,84,84"/>
 	<property name="CorpseBlock" value="ZedGoreFarmer"/>
 	<property name="CorpseBlockChance" value="1"/>
@@ -1345,7 +1342,7 @@
 	<property name="AttackTimeoutNight" value="1.25"/>
 
 	<property name="CanClimbLadders" value="true"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="IsEnemyEntity" value="true"/>
 
 	
@@ -2354,7 +2351,7 @@
 	<property name="AttackTimeoutNight" value="1.45"/>
 
 	<property name="CanClimbLadders" value="false"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="IsEnemyEntity" value="true"/>
 
 	<!-- Stealth settings -->
@@ -4299,7 +4296,7 @@
 	<property name="PanicSpeed" value="0.2"/>
 
 	<property name="CanClimbLadders" value="true"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="IsEnemyEntity" value="true"/>
 
 	
@@ -4531,7 +4528,7 @@
 	<property name="AttackTimeoutNight" value="0.75"/>
 
 	<property name="CanClimbLadders" value="true"/>
-	<property name="CanClimbVertical" value="false"/>
+	
 	<property name="IsEnemyEntity" value="true"/>
 
 	
