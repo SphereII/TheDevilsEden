@@ -252,7 +252,7 @@ There is a console command: forcegamestage
 	</group>
 
 	<group name="S_AbandonedHouse_1" emptyChance="0.1" decoyChance="0.1" decoy1hpChance="0">
-		<spawner name="SleeperGSList" count="2,5"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 
 	<group name="S_ZombieDogs_S" emptyChance="0.20" decoyChance="0.2" decoy1hpChance="0.75"> <!-- S -->
@@ -266,60 +266,60 @@ There is a console command: forcegamestage
 	</group>
 
 	<group name="S_SnowZombies_Med" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- M -->
-		<spawner name="SleeperGSList" count="3,7"/>
+		<spawner name="SleeperGSList" count="2,4"/>
 	</group>
 
 	<group name="S_FeralZombies_S" emptyChance="0.20" decoyChance="0.2" decoy1hpChance="0.75"> <!-- S -->
-		<spawner name="SleeperGSList" count="2,4"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 
 	<group name="S_BikerBar_Med" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- M -->
-		<spawner name="SleeperGSList" count="3,7"/>
+		<spawner name="SleeperGSList" count="2,5"/>
 	</group>
 
 	<group name="S_BikerBar_L" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- L -->
-		<spawner name="SleeperGSList" count="4,9"/>
+		<spawner name="SleeperGSList" count="2,7"/>
 	</group>
 
 	<group name="S_FootballStadium_Med" emptyChance="0.1" decoyChance="0.1" decoy1hpChance="0"> <!-- M -->
-		<spawner name="SleeperGSList" count="4,8"/>
+		<spawner name="SleeperGSList" count="2,4"/>
 	</group>
 	<group name="S_FootballStadium_L" emptyChance="0.1" decoyChance="0.1" decoy1hpChance="0"> <!-- L -->
-		<spawner name="SleeperGSList" count="5,10"/>
+		<spawner name="SleeperGSList" count="3,7"/>
 	</group>
 
 	<group name="S_GhostTown_S" emptyChance="0.20" decoyChance="0.2" decoy1hpChance="0.75"> <!-- S -->
-		<spawner name="SleeperGSList" count="2,4"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 	<group name="S_GhostTown_Med" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- M -->
-		<spawner name="SleeperGSList" count="3,7"/>
+		<spawner name="SleeperGSList" count="2,5"/>
 	</group>
 
 	<group name="S_ZomSoldier_S" emptyChance="0.1" decoyChance="0.1" decoy1hpChance="0"> <!-- S -->
-		<spawner name="SleeperGSList" count="2,4"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 	<group name="S_ZomSoldier_Med" emptyChance="0.1" decoyChance="0.1" decoy1hpChance="0"> <!-- M -->
-		<spawner name="SleeperGSList" count="4,8"/>
+		<spawner name="SleeperGSList" count="2,5"/>
 	</group>
 	<group name="S_ZomSoldier_L" emptyChance="0.1" decoyChance="0.1" decoy1hpChance="0"> <!-- L -->
-		<spawner name="SleeperGSList" count="5,10"/>
+		<spawner name="SleeperGSList" count="3,7"/>
 	</group>
 
 	<group name="S_ZomUtilityWorker_S" emptyChance="0.20" decoyChance="0.2" decoy1hpChance="0.75"> <!-- S -->
-		<spawner name="SleeperGSList" count="2,4"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 	<group name="S_ZomUtilityWorker_Med" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- M -->
-		<spawner name="SleeperGSList" count="3,7"/>
+		<spawner name="SleeperGSList" count="2,5"/>
 	</group>
 	<group name="S_ZomUtilityWorker_L" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- L -->
-		<spawner name="SleeperGSList" count="4,9"/>
+		<spawner name="SleeperGSList" count="3,7"/>
 	</group>
 
 	<group name="S_BusinessMan_XS" emptyChance="0.25" decoyChance="0.2" decoy1hpChance="0.75"> <!-- XS -->
-		<spawner name="SleeperGSList" count="1,2"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 	<group name="S_BusinessMan_S" emptyChance="0.20" decoyChance="0.2" decoy1hpChance="0.75"> <!-- S -->
-		<spawner name="SleeperGSList" count="2,4"/>
+		<spawner name="SleeperGSList" count="2,5"/>
 	</group>
 	<group name="S_BusinessMan_Med" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- M -->
 		<spawner name="SleeperGSList" count="3,7"/>
@@ -332,16 +332,16 @@ There is a console command: forcegamestage
 		<spawner name="SleeperGSList" count="1,2"/>
 	</group>
 	<group name="S_Badass_S" emptyChance="0.20" decoyChance="0.2" decoy1hpChance="0.75"> <!-- S -->
-		<spawner name="SleeperGSList" count="2,4"/>
+		<spawner name="SleeperGSList" count="1,3"/>
 	</group>
 	<group name="S_Badass_Med" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- M -->
-		<spawner name="SleeperGSList" count="3,7"/>
+		<spawner name="SleeperGSList" count="2,5"/>
 	</group>
 	<group name="S_Badass_L" emptyChance="0.1" decoyChance="0.2" decoy1hpChance="0.75"> <!-- L -->
-		<spawner name="SleeperGSList" count="4,9"/>
+		<spawner name="SleeperGSList" count="3,7"/>
 	</group>
 	<group name="S_Badass_XL" emptyChance="0.07" decoyChance="0.2" decoy1hpChance="0.75"> <!-- XL -->
-		<spawner name="SleeperGSList" count="5,11"/>
+		<spawner name="SleeperGSList" count="4,9"/>
 	</group>
 
 	<group name="S_TestChamberDecoy_XS" emptyChance="0.20" decoyChance="1.0" decoy1hpChance="0.2"> <!-- XS -->
@@ -359,22 +359,22 @@ There is a console command: forcegamestage
 	</group>
 	
 	<group name="GasStation" emptyChance="0.05" decoyChance="0" decoy1hpChance="0"> 
-		<spawner name="ZombieGasStation" count="4,8"/>
+		<spawner name="ZombieGasStation" count="1,4"/>
 	</group>
 	
 	<group name="Hospital" emptyChance="0" decoyChance="0" decoy1hpChance="0"> 
-		<spawner name="ZombieHospital" count="4,8"/>
+		<spawner name="ZombieHospital" count="1,4"/>
 	</group>
 	
 	<group name="CopsSml" emptyChance="0" decoyChance="0" decoy1hpChance="0"> 
-		<spawner name="ZombieCopShop" count="2,4"/>
+		<spawner name="ZombieCopShop" count="1,3"/>
 	</group>
 	<group name="Cops" emptyChance="0" decoyChance="0" decoy1hpChance="0"> 
-		<spawner name="ZombieCopShop" count="4,8"/>
+		<spawner name="ZombieCopShop" count="2,5"/>
 	</group>
 	
 	<group name="Military" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieMilitary" count="4,8"/>
+		<spawner name="ZombieMilitary" count="2,5"/>
 	</group>
 	
 	<group name="Settlement" emptyChance="0" decoyChance="0" decoy1hpChance="0">
@@ -382,28 +382,28 @@ There is a console command: forcegamestage
 	</group>
 	
 	<group name="Hotel" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="10,12"/>
+		<spawner name="ZombieHotel" count="3,7"/>
 	</group>
 	<group name="OstHotel" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="8,10"/>
+		<spawner name="ZombieHotel" count="3,7"/>
 	</group>
 	<group name="RoadHotel1" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="8,10"/>
+		<spawner name="ZombieHotel" count="3,7"/>
 	</group>
 	<group name="RoadHotel2" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="8,10"/>
+		<spawner name="ZombieHotel" count="3,7"/>
 	</group>
 	
 	<group name="Apt5" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="10,12"/>
+		<spawner name="ZombieHotel" count="4,9"/>
 	</group>
 	<group name="Apt6" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="12,14"/>
+		<spawner name="ZombieHotel" count="5,11"/>
 	</group>
 	
 	
 	<group name="Diner" emptyChance="0" decoyChance="0" decoy1hpChance="0">
-		<spawner name="ZombieHotel" count="8,12"/>
+		<spawner name="ZombieHotel" count="3,7"/>
 	</group>
 	
 	<group name="Store" emptyChance="0" decoyChance="0" decoy1hpChance="0">
@@ -511,8 +511,8 @@ There is a console command: forcegamestage
 	<!-- https://7daystodie.com/forums/showthread.php?56533-Gamestage-Blood-Moon-Horde-generator -->
 	<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXX  start: auto generated sleeper horde gamestages  XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 	<spawner name="SleeperGSList">
-		<gamestage stage="01"><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/></gamestage>
-		<gamestage stage="200"><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/></gamestage>
+		<gamestage stage="01"><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/></gamestage>
+		<gamestage stage="200"><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/></gamestage>
 		<gamestage stage="400"><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="1" maxAlive="1" interval="20"/></gamestage>
 		<gamestage stage="600"><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/></gamestage>
 		<gamestage stage="800"><spawn group="ZombieSLPRActiveMix" num="3" maxAlive="3" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/><spawn group="ZombieSLPRActiveMix" num="2" maxAlive="2" interval="20"/></gamestage>
