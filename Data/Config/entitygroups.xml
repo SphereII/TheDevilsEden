@@ -695,7 +695,7 @@
 	</entitygroup>
 	
 	<entitygroup name="Ghouls">
-		<entity name="invisibleAnimalEnemy" prob="0.475"/>
+		<entity name="invisibleAnimalEnemy" prob="0.52"/>
 		<entity name="GhoulMale" prob="0.2"/>
 		<entity name="GhoulMale2" prob="0.2"/>
 		<entity name="GhoulFemale" prob="0.2"/>
@@ -806,7 +806,7 @@
 	
 
 	<entitygroup name="EnemyAnimalsDesert">
-		<entity name="invisibleAnimalEnemy" prob="0.6" />
+		<entity name="invisibleAnimalEnemy" prob="0.55" />
 		<entity name="animalSnake" prob="0.1"/>
 		<entity name="animalZombieVulture" prob="0.33"/>
 		<entity name="invisibleAnimalEnemy" prob="1" />
@@ -823,7 +823,7 @@
 	
 
 	<entitygroup name="EnemyAnimalsSnow">
-		<entity name="invisibleAnimalEnemy" prob="0.6" />
+		<entity name="invisibleAnimalEnemy" prob="0.55" />
 		<entity name="animalZombieBear" prob="0.01" />
 		<entity name="animalDireWolf" prob="0.05" />
 		<entity name="animalZombieVulture" prob="0.25" />
@@ -843,7 +843,7 @@
 	
 
 	<entitygroup name="EnemyAnimalsForest">
-		<entity name="invisibleAnimalEnemy" prob="0.6" />
+		<entity name="invisibleAnimalEnemy" prob="0.55" />
 		<entity name="animalZombieBear" prob="0.01" />
 		<entity name="animalDireWolf" prob="0.045" />
 		<entity name="animalBear" prob="0.05" />
@@ -863,7 +863,7 @@
 	
 
 	<entitygroup name="EnemyAnimalsBurntForest">
-		<entity name="invisibleAnimalEnemy" prob="0.6" />
+		<entity name="invisibleAnimalEnemy" prob="0.55" />
 		<entity name="animalZombieBear" prob="0.05" />
 		<entity name="animalSnake" prob="0.1"/>
 		<entity name="animalZombieVulture" prob="0.33"/>
@@ -882,7 +882,7 @@
 	
 
 	<entitygroup name="EnemyAnimalsPlains">
-		<entity name="invisibleAnimalEnemy" prob="0.6" /> <!-- The first entity in the list of a group determines if it can spawn in safe zones or not. This animal is not friendly therefore this group will not spawn in safe zones-->
+		<entity name="invisibleAnimalEnemy" prob="0.55" /> <!-- The first entity in the list of a group determines if it can spawn in safe zones or not. This animal is not friendly therefore this group will not spawn in safe zones-->
 		<entity name="animalWolf" prob="0.3"/>
 		<entity name="animalSnake" prob="0.1"/>
 		<entity name="animalZombieVulture" prob="0.25"/>
@@ -901,7 +901,7 @@
 	
 	
 	<entitygroup name="EnemyAnimalsWasteland" >
-		<entity name="invisibleAnimalEnemy" prob="0.6" />
+		<entity name="invisibleAnimalEnemy" prob="0.55" />
 		<entity name="animalZombieBear" prob="0.05" />
 		<entity name="animalZombieDog" prob="0.1"/>
 		<entity name="animalSnake" prob="0.1"/>
@@ -1008,7 +1008,7 @@
 
 
 	<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXX  start: auto generated scout horde groups  XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
-		<entitygroup name="scoutHordeStageGS1"><entity name="zombieBoeFOD"/></entitygroup>
+		<entitygroup name="scoutHordeStageGS1"><entity name="zombieJoeFOD"/><entity name="zombieSteveFOD"/><entity name="zombieDarleneFOD"/><entity name="zombieCheerleaderLDR"/><entity name="zombieMarleneFOD"/><entity name="zombieYoFOD"/><entity name="zombieNurseLDR"/><entity name="zombieSkateboarderLDR"/><entity name="zombieFemaleFatLDR"/><entity name="zombieBusinessManLDR"/><entity name="zombieBoeFOD"/></entitygroup>
 		
 	<!-- XXXXXXXXXXXXXXXXXXXXXXXXXXXX  end: auto generated scout horde groups  XXXXXXXXXXXXXXXXXXXXXXXXXXXX -->
 
